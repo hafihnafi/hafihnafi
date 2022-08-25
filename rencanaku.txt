@@ -1,3 +1,9 @@
 1 bulan ke depan saya akan belajar github
+  - membuat branch
+  - melakukan merge
 2 bulan ke depan saya akan belajar pemrograman web
+  - HTML: struktur dasar, tabel, gambar, formulir
+  - CSS
+  - Javascript
+3 bulan kedepan aku membuat proyek web berkolaborasi dengan menggunakan git
 dst
